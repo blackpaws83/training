@@ -1,4 +1,9 @@
 added locally in develop branch
 modified remotely in newly created develop branch
+  changes from develop:
 modified remotely in develop
 modified locally in develop
+  changes from main:
+modified locally in main
+modified remotely in main
+modified locally in main
